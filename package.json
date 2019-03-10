@@ -1,0 +1,15 @@
+{
+  "name": "mathibot",
+  "version": "1.0.0",
+  "description": "A simple guild administration and information bot for the Mathi guild",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "chariot.js": "^1.2.0",
+    "twitchps": "^1.2.0"
+  }
+}
