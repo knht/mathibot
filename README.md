@@ -1,4 +1,4 @@
-# Mathi Bot <a href="https://github.com/riyacchi/chariot.js/"><img src="https://img.shields.io/badge/framework-Chariot.js-brightgreen.svg"></a>
+# Mathi Bot <a href="https://discord.gg/3HREUHY"><img src="https://discordapp.com/api/guilds/427200060980330508/embed.png"></a> <a href="https://github.com/riyacchi/chariot.js/"><img src="https://img.shields.io/badge/framework-Chariot.js-brightgreen.svg"></a>
 This is an extremely simple Discord bot based on the [Chariot.js](https://github.com/riyacchi/chariot.js) framework for the Mathi community guild on Discord. Its main purpose is to deliver information about the gear, settings and specifications of the top osu! player Mathi & notifying the guild when he goes live on Twitch by mentioning everyone in the guild in a specified announcements channel.
 
 # Installation
