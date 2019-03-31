@@ -43,7 +43,7 @@ class MathiBot extends Chariot.Client {
             // Listen for stream to go live
             this.pubSub.on('stream-up', async (data) => {
                 if (data.channel_name === 'mathi109') {
-                    announcementChannel.send(`@everyone Mathi is now lie on Twitch! https://www.twitch.tv/mathi109`);
+                    announcementChannel.createMessage(`@everyone Mathi is now lie on Twitch! https://www.twitch.tv/mathi109`);
                     this.logger.log(0, 'TWITCH PS', 'Mathi just went live!');
                 }
             });
